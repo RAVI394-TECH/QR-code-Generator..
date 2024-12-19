@@ -1,0 +1,9 @@
+QR CODE GENERATOR
+This Python program is a QR Code Generator application that uses the Tkinter library for the graphical user interface (GUI) and
+the qrcode library for generating QR codes. The app offers users the ability to create a QR code from entered text and optionally overlay it onto a background image.
+This application provides an easy-to-use tool for generating custom QR codes.
+Users can personalize the QR code by adding a background image, and then save the QR code as an image file for later use.
+The interface is simple, and the integration of Tkinter and Pillow ensures that both the QR code and background image can be handled efficiently.
+
+
+
